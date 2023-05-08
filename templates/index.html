@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Song Search</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+  </head>
+  <body>
+    <form method="get" action="/search">
+      <label for="song-title">Enter a song title:</label>
+      <input type="text" id="song-title" name="song_title">
+      <button type="submit">Search</button>
+    </form>
+  </body>
+</html>

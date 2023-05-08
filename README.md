@@ -28,4 +28,3 @@ If you're done, you can try to expand the project on your own. Here are a few su
 
 - Find other lists of hot songs on the internet and scrape them too: having a bigger pool of songs will be awesome!
 - Apply the same logic to other "groups" of songs: the best songs from a decade or from a country / culture / language / genre.
-- Wikipedia maintains a large collection of lists of songs: https://en.wikipedia.org/wiki/Lists_of_songs
